@@ -4,6 +4,6 @@ title: "News"
 permalink: /news/
 author_profile: true
 redirect_from:
-  - /news/
+  - /resume
 ---
 This is news;
