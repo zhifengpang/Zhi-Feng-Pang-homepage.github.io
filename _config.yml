@@ -78,7 +78,7 @@ analytics:
     tracking_id          :
 
 
-# Site Author
+# Site Author 这里是侧边栏信息，主要修改这里的内容
 author:
   name             : "Zhi-Feng Pang"
   avatar           : "profile.png"
@@ -116,7 +116,7 @@ author:
   youtube          :
   wikipedia        :
 
-
+#以下内容最好不用修改
 # Reading Files
 include:
   - .htaccess
