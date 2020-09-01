@@ -55,5 +55,4 @@ redirect_from:
 (44) 河南省第二届计算数学年会, 郑州大学, 12月13日-15日, 2019 (30分钟邀请报告).  
 (45) Mathematics in Advanced Medical Imaging: models, algorithms, and big data, TsinghuaSanya International Mathematics Forum, December 30, 2019-January 3, 2020. (30分钟邀请报告).  
 (46) 2020年图像处理冬季研讨会, 哈尔滨工业大学, 1月4日-6日, 2020. (40分钟邀请报告)  
-(47) International Conference on Image Processing:Theory, Method and Applications, 南开大学,10月22日-25日, 2020. (30分钟邀请报告).  
-(48) 中国工业与应用数学学会第十八届年会, 长沙, 10月29日-11月1日, 2020. (30分钟邀请报告)  
+(47) 中国工业与应用数学学会第十八届年会, 长沙, 10月29日-11月1日, 2020. (30分钟邀请报告)  
