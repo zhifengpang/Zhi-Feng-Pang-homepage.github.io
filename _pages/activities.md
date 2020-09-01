@@ -1,9 +1,9 @@
 ---
 layout: archive
-title: "Softwares"
-permalink: /softwares/
+title: "Activities"
+permalink: /activities/
 author_profile: true
 redirect_from:
   - /resume
 ---
-This is software;
+This is activity;
