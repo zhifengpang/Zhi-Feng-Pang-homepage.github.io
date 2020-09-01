@@ -1,4 +1,5 @@
 ---
+title: "About me"
 permalink: /
 author_profile: true
 redirect_from: 
@@ -6,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-
-Abort me
 ======
 ​ **•** 庞志峰, 1978年5月11日, 男，河南南阳人;
 
