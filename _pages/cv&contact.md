@@ -8,8 +8,8 @@ redirect_from:
   - /resume
 ---
 
-======
-[Chinese CV](https://zhifengpang.github.io/files/zhifengpang_Chinese.pdf)
+
+## [Chinese CV](https://zhifengpang.github.io/files/zhifengpang_Chinese.pdf)
 
 Contact
 ======

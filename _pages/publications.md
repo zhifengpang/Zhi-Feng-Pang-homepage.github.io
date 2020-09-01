@@ -6,6 +6,18 @@ author_profile: true
 ---
 发表文章(∗通讯作者)
 =======
+
+## 2020
+* <b>文章题目</b>. <br>
+<b>Zhi-Feng Pang</b>, xxx, xxx. <i>杂志社/会议(**NIPS 2020**)</i>.<br>
+[[PDF]](https://zhifengpang.github.io/files/zhifengpang_Chinese.pdf)
+[[Poster]](https://zhifengpang.github.io/files/zhifengpang_Chinese.pdf)
+[[Code]](https://zhifengpang.github.io/files/zhifengpang_Chinese.pdf)
+
+## 2019
+.......
+**都可以做成按年份的效果，或者下面这样全排列**
+
 (1) Zhi-Feng Pang∗ and Yu-Fei Yang. Semismooth Newton method for minimization of theLLT model. Inverse Problems and Imaging, 3(4):677-691, 2009.(SCI)  
 
 (2) 庞志峰, 杨余飞∗, 林玲. 图像去噪LOT模型的分裂Bregman方法. 湖南大学学报(自然科学版),37(9):83-87, 2010. (EI)  
