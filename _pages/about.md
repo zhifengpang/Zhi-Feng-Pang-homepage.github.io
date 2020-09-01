@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-======
+# Personal Information
 ​ **•** 庞志峰, 1978年5月11日, 男，河南南阳人;
 
  **•** 2010年6月获得湖南大学计算数学博士学位;
