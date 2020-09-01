@@ -1,24 +1,26 @@
 # main links links
 main:
+  - title: "CV & Contact"
+    url: /cv&contact/
+
+  - title: "News"
+    url: /news/
+  
+  - title: "Teaching"
+    url: /teaching/  
+  
   - title: "Publications"
     url: /publications/
 
   - title: "Biography"
     url: /biography/    
 
-  - title: "Teaching"
-    url: /teaching/    
-    
   - title: "Softwares"
     url: /softwares/
         
-  - title: "News"
-    url: /news/
-    
   - title: "Activities"
     url: /activities/
     
-  - title: "CV & Contact"
-    url: /cv&contact/
+
     
 
