@@ -187,8 +187,15 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
-
+  news:
+    output: true
+    permalink: /:collection/:path/
+  softwares:
+    output: true
+    permalink: /:collection/:path/
+  biography:
+    output: true
+    permalink: /:collection/:path/
 # Defaults
 defaults:
   # _posts
