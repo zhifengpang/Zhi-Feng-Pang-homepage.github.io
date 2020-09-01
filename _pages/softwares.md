@@ -4,6 +4,6 @@ title: "Softwares"
 permalink: /softwares/
 author_profile: true
 redirect_from:
-  - /resume
+  - /softwares/
 ---
 This is software;
