@@ -23,10 +23,8 @@ Zhi-Feng Pang  is currently an associate professor in the Department of Mathemat
 
 # Contact
 
-**Mailing address:**
-Department of Mathematics and Statistics
-University of Henan
-Jinming Campus
-Kaifeng, Henan province, China 
-Postcode: 475004
-**Email:** zhifengpang at 163.com // zhifengpang@henu.edu.cn
+**Mailing address:**<br />Department of Mathematics and Statistics<br />University of Henan<br />
+Jinming Campus<br />
+Kaifeng, Henan province, China <br />
+Postcode: 475004<br />
+**Email:** zhifengpang at 163.com // zhifengpang@henu.edu.cn<br />
