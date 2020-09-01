@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV & Contact"
-permalink: /cv&contact/
+title: "CV"
+permalink: /cv/
 author_profile: true
 paperurl: 'https://zhifengpang.github.io/files/zhifengpang_Chinese.pdf'
 redirect_from:
@@ -11,9 +11,7 @@ redirect_from:
 
 ## [Chinese CV](https://zhifengpang.github.io/files/zhifengpang_Chinese.pdf)
 
-Contact
-======
-Henan university.
+
 
 
   

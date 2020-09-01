@@ -1,8 +1,8 @@
 # main links links
 #可以更换顺序或者添加删除内容，注意url内地址保持和_pages文件夹下的页面内容的一致
 main:
-  - title: "CV & Contact"
-    url: /cv&contact/
+  - title: "CV"
+    url: /cv/
 
   - title: "News"
     url: /news/
